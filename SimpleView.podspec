@@ -4,8 +4,8 @@ Pod::Spec.new do |s|
   s.version          = '0.1.0'
   s.summary          = 'SimpleView demo'
 
-  s.description      = 'SimpleView is pod file. Add view in controller and lets check that pod file working'
-This SimpleView view add let see the pod is working.fantastic!
+  s.description      = <<-DESC
+This Simple view changes its view gradually makes your app look fantastic!
                        DESC
 
   s.homepage         = 'https://github.com/dipang90/SimpleView'
